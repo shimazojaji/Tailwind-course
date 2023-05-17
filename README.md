@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 # Tailwind-course
 
-#This project is designed from the basic course of Tailwind. Implement by HTML, Tailwind CSS and Alpine.js. You can see live in this [link]
-=======
-<<<<<<< HEAD
-# Tailwind-course
-
-#This project is designed from the basic course of Tailwind. Implement by HTML, Tailwind CSS and Alpine.js. You can see live in this [link]
+#This project is designed from the basic course of Tailwind. Implement by HTML, Tailwind CSS and Alpine.js. You can see live in this [[link](https://zojaji-tailwind-course.netlify.app/)]
 =======
 # tailwind-course
 # tailwind-course
